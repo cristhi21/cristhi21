@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @cristhi21
-- 👀 I’m interested in go, elixir and k8s
-- 🌱 I’m currently learning go, elixir, k8s and aws
+- 👀 I’m interested in go, elixir and rust
+- 🌱 I’m currently learning go, elixir, k8s, aws and Rust
 - 💞️ I’m looking to collaborate on Project Open Source
-- 📫 How to reach me https://www.linkedin.com/in/cristhian-vargas-0331a11a1/
+- 📫 How to reach me https://www.linkedin.com/in/cristhian-vargas/
 
 <!---
 cristhi21/cristhi21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
